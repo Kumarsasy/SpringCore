@@ -1,0 +1,9 @@
+1.tightcoupling
+2.loosecoupling
+3.beanExample
+4.constructorInjection
+5.setterInjection
+6.ioc
+7.autowire byName, byType, byConstructor
+8.componentscan annotation
+9.autowiredAnnotation
